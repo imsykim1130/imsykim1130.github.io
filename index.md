@@ -8,7 +8,3 @@
 layout: home
 title:
 ---
-
-# hello world
-
-this is paragraph
